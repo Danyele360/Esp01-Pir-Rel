@@ -1,4 +1,4 @@
-# Esp01-Pir-Rel
+# Esp01-Pir-Rele
 
 Send udp packet "stato" for active alarm, repeat to disable
 
